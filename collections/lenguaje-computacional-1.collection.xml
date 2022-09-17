@@ -1,0 +1,20 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Jorge Barahona">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10355</md:content-id>
+    <md:title>Lenguaje Computacional 1</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>
+    <md:language>es-cl</md:language>
+    <md:uuid>2a089294-3d3b-4ce2-a0e8-55cbe9ec0228</md:uuid>
+<md:slug>lenguaje-computacional-1</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Biblioteca</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Tareas</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
